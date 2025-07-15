@@ -16,7 +16,13 @@ permalink: /projects/project1.html
 
 <section class="container my-4">
   <h2>Overview</h2>
+  <img class="img-fluid mb-3" src="https://via.placeholder.com/800x400" alt="Automated Garden System" />
   <p>This project uses a Raspberry Pi with sensors to monitor soil moisture and automatically water plants. It was programmed with MicroPython.</p>
+  <div class="row">
+    <div class="col-md-4 mb-3"><img class="img-fluid" src="https://via.placeholder.com/400x300" alt="Garden sensor" /></div>
+    <div class="col-md-4 mb-3"><img class="img-fluid" src="https://via.placeholder.com/400x300" alt="Water pump" /></div>
+    <div class="col-md-4 mb-3"><img class="img-fluid" src="https://via.placeholder.com/400x300" alt="System dashboard" /></div>
+  </div>
 </section>
 
 <footer class="text-center py-4 bg-dark text-light">

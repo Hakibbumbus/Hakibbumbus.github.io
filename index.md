@@ -26,6 +26,7 @@ title: "V's Engineering Portfolio"
   <div class="row">
     <div class="col-md-6">
       <div class="card mb-4 project">
+        <img class="card-img-top" src="https://via.placeholder.com/600x300" alt="Automated Garden System preview" />
         <div class="card-body">
           <h3 class="card-title">Automated Garden System 🌱</h3>
           <p class="card-text">IoT garden using Raspberry Pi, sensors, and MicroPython. Real-time soil monitoring and pump control.</p>
@@ -35,6 +36,7 @@ title: "V's Engineering Portfolio"
     </div>
     <div class="col-md-6">
       <div class="card mb-4 project">
+        <img class="card-img-top" src="https://via.placeholder.com/600x300" alt="Trade Signal Bot preview" />
         <div class="card-body">
           <h3 class="card-title">Trade Signal Bot 📈</h3>
           <p class="card-text">Python bot for equity options alerts with IBKR API, integrated with Discord for live signals.</p>
@@ -48,7 +50,7 @@ title: "V's Engineering Portfolio"
 <section id="contact" class="container my-4">
   <h2>Let's Connect</h2>
   <p>Email: <a href="mailto:venuja.kodisinghe@gmail.com">venuja.kodisinghe@gmail.com</a></p>
-  <p>GitHub: <a href="https://github.com/yourusername">yourusername</a></p>
+  <p>GitHub: <a href="https://github.com/Hakibbumbus">Hakibbumbus</a></p>
 </section>
 
 <footer class="text-center py-4 bg-dark text-light">

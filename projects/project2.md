@@ -16,7 +16,13 @@ permalink: /projects/project2.html
 
 <section class="container my-4">
   <h2>Overview</h2>
+  <img class="img-fluid mb-3" src="https://via.placeholder.com/800x400" alt="Trade Signal Bot" />
   <p>This Python application integrates with the Interactive Brokers API to send real-time equity option alerts. Notifications are delivered through Discord.</p>
+  <div class="row">
+    <div class="col-md-4 mb-3"><img class="img-fluid" src="https://via.placeholder.com/400x300" alt="Bot screenshot" /></div>
+    <div class="col-md-4 mb-3"><img class="img-fluid" src="https://via.placeholder.com/400x300" alt="Trade data" /></div>
+    <div class="col-md-4 mb-3"><img class="img-fluid" src="https://via.placeholder.com/400x300" alt="Discord alerts" /></div>
+  </div>
 </section>
 
 <footer class="text-center py-4 bg-dark text-light">
